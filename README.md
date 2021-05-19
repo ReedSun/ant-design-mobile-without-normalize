@@ -16,6 +16,8 @@ English | [简体中文](./README.zh-CN.md)
 [![Percentage of issues still open](http://isitmaintained.com/badge/open/ant-design/ant-design-mobile.svg)](http://isitmaintained.com/project/ant-design/ant-design-mobile "Percentage of issues still open")
 [![Join the chat at https://gitter.im/ant-design/ant-design-mobile](https://img.shields.io/gitter/room/ant-design/ant-design-mobile.svg?style=flat-square)](https://gitter.im/ant-design/ant-design-mobile?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
+**Ant Design Mobile without normalize.css**
+
 A configurable Mobile UI specification and React-based implementation.
 
 ## Features
