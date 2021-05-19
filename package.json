@@ -1,8 +1,8 @@
 {
-  "name": "antd-mobile",
+  "name": "antd-mobile-without-normalize",
   "version": "2.3.4",
-  "description": "基于 React 的移动设计规范实现",
-  "homepage": "http://mobile.ant.design",
+  "description": "基于 Ant Design Mobile，移除了全局引入 normalize.css",
+  "homepage": "https://github.com/ReedSun/ant-design-mobile-without-normalize",
   "keywords": [
     "ant",
     "design",
@@ -17,10 +17,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/ant-design/ant-design-mobile"
+    "url": "https://github.com/ReedSun/ant-design-mobile-without-normalize"
   },
   "bugs": {
-    "url": "http://github.com/ant-design/ant-design-mobile/issues"
+    "url": "https://github.com/ReedSun/ant-design-mobile-without-normalize/issues"
   },
   "files": [
     "dist",
